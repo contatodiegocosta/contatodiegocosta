@@ -1,6 +1,3 @@
-
-<br>
-
 <p align="left"><i>
 Repositórios voltados à análise e engenharia de dados, com ferramentas amplamente usadas em ambientes corporativos. Aqui documento minha evolução técnica e busco consolidar experiência prática na área.
 
