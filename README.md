@@ -1,5 +1,5 @@
 <p align="left"><i>
-Repositórios voltados à análise e engenharia de dados, com ferramentas amplamente usadas em ambientes corporativos. Aqui documento minha evolução técnica e busco consolidar experiência prática na área.
+Repositórios voltados à análise e ciência de dados, com ferramentas amplamente usadas em ambientes corporativos. Aqui documento minha evolução técnica e busco consolidar experiência prática na área.
 
 Os projetos abrangem análise exploratória, tratamento e modelagem de dados, construção de dashboards e relatórios para tomada de decisão, além de pipelines para automação e organização de dados.
 
